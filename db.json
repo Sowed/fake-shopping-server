@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World"
+    }
+  ],
+  "profile": {
+    "name": "fake-shopping-server"
+  }
+}
